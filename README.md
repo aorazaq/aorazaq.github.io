@@ -5,8 +5,8 @@
 [ZTM](/ztm.jpeg) | [Nacos](/naccos.jpg)
 
 ### Education
-Bsc Software Engineering
-ZTM certificate in Python & Ml
+- Bsc Software Engineering
+- ZTM certificate in Python & Ml
 
 ### Experience
 **Internship @ National Information Technology development Agency**
