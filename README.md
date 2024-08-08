@@ -2,7 +2,7 @@
 #### Technical Skills:Python,HTML, ML 
 
 ### Memberships
-[ZTM](/ztm.jpeg) | [Nacos](/naccos.jpg)
+![ZTM](/ztm.jpeg) | ![Nacos](/naccos.jpg)
 
 ### Education
 Bsc Software Engineering
