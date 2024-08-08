@@ -11,6 +11,7 @@ ZTM certificate in Python & Ml
 ### Projects
 ML based Projects
 - Face Mask detection (classification using Tensorflfow)
-  
+![face_mask](/mask.jpeg)
 - Brain Tumor Detection (classification using Tensorflfow)
+![brain_tumor](/brain_tumor.jpeg)
 - loanify (classification using RandomForest)
