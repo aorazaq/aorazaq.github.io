@@ -10,7 +10,7 @@ ZTM certificate in Python & Ml
 
 ### Experience
 **Internship @ National Information Technology development Agency**
-![NITDA](/naccos.jpg)
+![NITDA](/nitda.jpg)
 - Took classes in data science,advanced ml, python 
 
 ### Projects
